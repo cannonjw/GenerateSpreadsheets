@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "H8dlvx42uvht//OmMfgqdxCgivG48Jbvcw9JhoOcTSE=",
+  "Source": "GenerateSpreadsheets",
+  "BasePath": "_content/GenerateSpreadsheets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
